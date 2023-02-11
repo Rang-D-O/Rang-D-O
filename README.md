@@ -32,4 +32,4 @@ I am currently studying computer science in the university of Stuttgart.
 
 <a href="http://www.github.com/Rang-D-O"><img src="https://github-readme-stats.vercel.app/api?username=Rang-D-O&show_icons=true&hide=contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rang-D-O's GitHub stats" /></a>
 
-<a href="https://github.com/Rang-D-O" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rang-D-O&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
